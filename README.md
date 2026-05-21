@@ -14,18 +14,18 @@
 
 ## About Me
 
-I'm an engineering undergrad specializing in **embedded systems and firmware development**, with a focus on real-world hardware projects. I build systems from the bare-metal up â€” from designing control loops for drones to writing firmware for ESP32-based IoT devices.
+I'm an engineering undergrad specializing in **embedded systems and firmware development**, with a focus on real-world hardware projects. I build systems from the bare-metal up from designing control loops for drones to writing firmware for ESP32-based IoT devices.
 
 Currently expanding into **Edge AI/ML**, bringing machine learning inference to resource-constrained hardware using tools like PyTorch, ONNX, and CUDA.
 
-- ðŸ”§ **Main stack:** C Â· C++ Â· Python Â· ESP32 Â· STM32
-- ðŸ¤– **Exploring:** Edge AI Â· TinyML Â· STM32N6 NPU
-- ðŸ“¡ **Interests:** Autonomous systems Â· Real-time control Â· Wireless communication
-- ðŸŽ“ **Status:** Engineering undergrad, open to internships & opportunities
+-  **Main stack:** C Â· C++ Â· Python Â· ESP32 Â· STM32
+-  **Exploring:** Edge AI Â· TinyML Â· STM32N6 NPU
+-  **Interests:** Autonomous systems Â· Real-time control Â· Wireless communication
+-  **Status:** Engineering undergrad, open to internships & opportunities
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+##  Tech Stack
 
 ### Embedded & Hardware
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -51,27 +51,27 @@ Currently expanding into **Edge AI/ML**, bringing machine learning inference to 
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
-### ðŸ›¸ [ESP32 Flight Controller](https://github.com/AtharvHuilgol/Making-ESP-Flight-Controller)
+###  [ESP32 Flight Controller](https://github.com/AtharvHuilgol/Making-ESP-Flight-Controller)
 Custom quadcopter flight controller built from scratch on ESP32. Implements PID-based attitude stabilization, IMU sensor fusion, and PWM motor control â€” no autopilot libraries.
 > `C++` `ESP32` `PID Control` `IMU` `PWM`
 
-### ðŸŽ® [ESP32 Wireless Steering Wheel](https://github.com/AtharvHuilgol/Steering-Wheel-with-ESP)
+###  [ESP32 Wireless Steering Wheel](https://github.com/AtharvHuilgol/Steering-Wheel-with-ESP)
 Wireless controller built on ESP32 with real-time telemetry feedback over Wi-Fi. Features a live web dashboard for monitoring system state.
 > `ESP32` `JavaScript` `WebSocket` `IoT`
 
-### ðŸ¦¾ [Servo Robotic Arm](https://github.com/AtharvHuilgol/Moving-Arm)
+###  [Servo Robotic Arm](https://github.com/AtharvHuilgol/Moving-Arm)
 Multi-DOF robotic arm controlled via a browser-based interface. Servo positions are commanded wirelessly through an ESP32 web server.
 > `ESP32` `Servo` `JavaScript` `Robotics`
 
-### ðŸ“ [Bee Keeps Notes](https://github.com/AtharvHuilgol/Bee-Keeps-Notes)
+###  [Bee Keeps Notes](https://github.com/AtharvHuilgol/Bee-Keeps-Notes)
 Full-stack note-taking web application with real-time sync and a clean, minimal UI.
 > `JavaScript` `Web App` `Full-Stack`
 
 ---
 
-## ðŸ“Š GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -82,9 +82,9 @@ Full-stack note-taking web application with real-time sync and a clean, minimal 
 
 ---
 
-## ðŸ“« Get In Touch
+## « Get In Touch
 
-- ðŸ“§ **Email:** huilgolatharv@gmail.com
+-  **Email:** huilgolatharv@gmail.com
 - ðŸ’¼ **LinkedIn:** [https://www.linkedin.com/in/atharv-huilgol](https://www.linkedin.com/in/atharv-huilgol)
 - ðŸŒ **Open to:** Internships Â· Firmware roles Â· Embedded systems projects
 
