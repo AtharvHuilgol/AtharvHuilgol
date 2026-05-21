@@ -18,9 +18,9 @@ I'm an engineering undergrad specializing in **embedded systems and firmware dev
 
 Currently expanding into **Edge AI/ML**, bringing machine learning inference to resource-constrained hardware using tools like PyTorch, ONNX, and CUDA.
 
--  **Main stack:** C Â· C++ Â· Python Â· ESP32 Â· STM32
--  **Exploring:** Edge AI Â· TinyML Â· STM32N6 NPU
--  **Interests:** Autonomous systems Â· Real-time control Â· Wireless communication
+-  **Main stack:** C · C++ Â· Python · ESP32 · STM32
+-  **Exploring:** Edge AI · TinyML · STM32N6 NPU
+-  **Interests:** Autonomous systems · Real-time control · Wireless communication
 -  **Status:** Engineering undergrad, open to internships & opportunities
 
 ---
@@ -71,26 +71,15 @@ Full-stack note-taking web application with real-time sync and a clean, minimal 
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AtharvHuilgol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvHuilgol&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## « Get In Touch
 
 -  **Email:** huilgolatharv@gmail.com
-- ðŸ’¼ **LinkedIn:** [https://www.linkedin.com/in/atharv-huilgol](https://www.linkedin.com/in/atharv-huilgol)
-- ðŸŒ **Open to:** Internships Â· Firmware roles Â· Embedded systems projects
+-  **LinkedIn:** [https://www.linkedin.com/in/atharv-huilgol](https://www.linkedin.com/in/atharv-huilgol)
+- **Open to:** Internships Â· Firmware roles Â· Embedded systems projects
 
 ---
 
 <div align="center">
-<sub>âš¡ Building at the intersection of hardware and intelligence</sub>
+<sub> Building at the intersection of hardware and intelligence</sub>
 </div>
 
