@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-# Hi, I'm Atharv Huilgol ðŸ‘‹
+# Hi, I'm Atharv Huilgol ‹
 
-### Firmware Engineer Â· Embedded Systems Â· Edge AI/ML
+### Firmware Engineer · Embedded Systems · Edge AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-huilgol)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huilgolatharv@gmail.com)
@@ -12,7 +12,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## About Me
 
 I'm an engineering undergrad specializing in **embedded systems and firmware development**, with a focus on real-world hardware projects. I build systems from the bare-metal up â€” from designing control loops for drones to writing firmware for ESP32-based IoT devices.
 
