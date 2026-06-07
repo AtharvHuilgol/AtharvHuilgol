@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# Hi, I'm Atharv Huilgol ‹
+# Hi, I'm Atharv Huilgol 🚀
 
 ### Firmware Engineer · Embedded Systems · Edge AI/ML
 
@@ -12,20 +12,20 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an engineering undergrad specializing in **embedded systems and firmware development**, with a focus on real-world hardware projects. I build systems from the bare-metal up from designing control loops for drones to writing firmware for ESP32-based IoT devices.
+I'm an engineering undergrad specializing in **embedded systems and firmware development**, with a focus on real-world hardware projects. I build systems from the bare-metal up—from designing control loops for drones to writing firmware for ESP32-based IoT devices.
 
 Currently expanding into **Edge AI/ML**, bringing machine learning inference to resource-constrained hardware using tools like PyTorch, ONNX, and CUDA.
 
--  **Main stack:** C · C++ Â· Python · ESP32 · STM32
--  **Exploring:** Edge AI · TinyML · STM32N6 NPU
--  **Interests:** Autonomous systems · Real-time control · Wireless communication
--  **Status:** Engineering undergrad, open to internships & opportunities
+- 💻 **Main stack:** C · C++ · Python · ESP32 · STM32
+- 🧠 **Exploring:** Edge AI · TinyML · STM32N6 NPU
+- 🚁 **Interests:** Autonomous systems · Real-time control · Wireless communication
+- 🎓 **Status:** Engineering undergrad, open to internships & opportunities
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 ### Embedded & Hardware
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -51,35 +51,51 @@ Currently expanding into **Edge AI/ML**, bringing machine learning inference to 
 
 ---
 
-## Featured Projects
+## 📈 GitHub Stats
 
-###  [ESP32 Flight Controller](https://github.com/AtharvHuilgol/Making-ESP-Flight-Controller)
-Custom quadcopter flight controller built from scratch on ESP32. Implements PID-based attitude stabilization, IMU sensor fusion, and PWM motor control â€” no autopilot libraries.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtharvHuilgol&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvHuilgol&layout=compact&theme=vision-friendly-dark&hide_border=true" width="49%" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [Interpretable ML for Alzheimer's Classification](https://github.com/AtharvHuilgol/alzheimers-ml-classification)
+Binary classification pipeline for dementia status using OASIS clinical data, featuring SHAP explainability and fairness analysis across demographic subgroups.
+> `Python` `Machine Learning` `SHAP` `Data Science`
+
+### ⚡ [STM32N6 Edge AI Exploration](https://github.com/AtharvHuilgol/starting-with-stm32n6)
+Exploring the capabilities of the new STM32N6 Neural Processing Unit (NPU) for running TinyML and Edge AI models on resource-constrained hardware.
+> `C` `STM32` `Edge AI` `TinyML`
+
+### 🚁 [ESP32 Flight Controller](https://github.com/AtharvHuilgol/Making-ESP-Flight-Controller)
+Custom quadcopter flight controller built from scratch on ESP32. Implements PID-based attitude stabilization, IMU sensor fusion, and PWM motor control — no autopilot libraries.
 > `C++` `ESP32` `PID Control` `IMU` `PWM`
 
-###  [ESP32 Wireless Steering Wheel](https://github.com/AtharvHuilgol/Steering-Wheel-with-ESP)
+### 🎮 [ESP32 Wireless Steering Wheel](https://github.com/AtharvHuilgol/Steering-Wheel-with-ESP)
 Wireless controller built on ESP32 with real-time telemetry feedback over Wi-Fi. Features a live web dashboard for monitoring system state.
 > `ESP32` `JavaScript` `WebSocket` `IoT`
 
-###  [Servo Robotic Arm](https://github.com/AtharvHuilgol/Moving-Arm)
+### 🦾 [Servo Robotic Arm](https://github.com/AtharvHuilgol/Moving-Arm)
 Multi-DOF robotic arm controlled via a browser-based interface. Servo positions are commanded wirelessly through an ESP32 web server.
 > `ESP32` `Servo` `JavaScript` `Robotics`
 
-###  [Bee Keeps Notes](https://github.com/AtharvHuilgol/Bee-Keeps-Notes)
+### 📝 [Bee Keeps Notes](https://github.com/AtharvHuilgol/Bee-Keeps-Notes)
 Full-stack note-taking web application with real-time sync and a clean, minimal UI.
 > `JavaScript` `Web App` `Full-Stack`
 
 ---
 
-## « Get In Touch
+## 📫 Get In Touch
 
--  **Email:** huilgolatharv@gmail.com
--  **LinkedIn:** [https://www.linkedin.com/in/atharv-huilgol](https://www.linkedin.com/in/atharv-huilgol)
-- **Open to:** Internships Â· Firmware roles Â· Embedded systems projects
+- 📧 **Email:** huilgolatharv@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/atharv-huilgol](https://www.linkedin.com/in/atharv-huilgol)
+- 🤝 **Open to:** Internships · Firmware roles · Embedded systems projects
 
 ---
 
 <div align="center">
-<sub> Building at the intersection of hardware and intelligence</sub>
+<sub>Building at the intersection of hardware and intelligence</sub>
 </div>
-
