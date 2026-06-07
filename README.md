@@ -62,6 +62,10 @@ Currently expanding into **Edge AI/ML**, bringing machine learning inference to 
 
 ## 🚀 Featured Projects
 
+### 🌐 [Net-Neutral AI](https://github.com/Janhvesh-Patil/Net-Neutral-AI)
+A federated learning platform that recruits idle devices as volunteer compute nodes to train AI models collaboratively without centralized gatekeepers. Built with Janhvesh and team.
+> `Python` `PyTorch` `Federated Learning` `Flask`
+
 ### 🧠 [Interpretable ML for Alzheimer's Classification](https://github.com/AtharvHuilgol/alzheimers-ml-classification)
 Binary classification pipeline for dementia status using OASIS clinical data, featuring SHAP explainability and fairness analysis across demographic subgroups.
 > `Python` `Machine Learning` `SHAP` `Data Science`
