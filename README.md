@@ -41,9 +41,7 @@ Currently expanding into **Edge AI/ML**, bringing machine learning inference to 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvHuilgol&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvHuilgol&layout=compact&theme=vision-friendly-dark&hide_border=true" width="48%" />
+  <img src="https://metrics.lecoq.io/AtharvHuilgol" width="100%" />
 </div>
 
 ---
