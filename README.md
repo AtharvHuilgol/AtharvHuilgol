@@ -38,13 +38,7 @@ Currently expanding into **Edge AI/ML**, bringing machine learning inference to 
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/AtharvHuilgol" width="100%" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
