@@ -50,6 +50,10 @@ A federated learning platform that recruits idle devices as volunteer compute no
 Binary classification pipeline for dementia status using OASIS clinical data, featuring SHAP explainability and fairness analysis across demographic subgroups.
 > `Python` &nbsp; `Machine Learning` &nbsp; `SHAP` &nbsp; `Data Science`
 
+### 📊 [System Bottleneck Prediction Model](https://github.com/AtharvHuilgol/System-Bottleneck_Prediction)
+A machine learning pipeline that builds a binary classification model using XGBoost and SMOTE to predict rare system bottlenecks based on performance metrics.
+> `Python` &nbsp; `Machine Learning` &nbsp; `XGBoost` &nbsp; `Data Science`
+
 ### ⚡ [STM32N6 Edge AI Exploration](https://github.com/AtharvHuilgol/starting-with-stm32n6)
 Exploring the capabilities of the new STM32N6 Neural Processing Unit (NPU) for running TinyML and Edge AI models on resource-constrained hardware.
 > `C` &nbsp; `STM32` &nbsp; `Edge AI` &nbsp; `TinyML`
